@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer{
+    html{
+        @apply scroll-smooth;
+    }
+    body{
+       @apply font-sans text-secondary bg-white antialiased;
+    }
+
+    /* Add smooth scrolling for safari*/
+    * {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+    }
+}
