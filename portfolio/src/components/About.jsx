@@ -3,11 +3,17 @@ import { motion } from 'framer-motion';
 const About = () => {
   const education = [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      year: "2018 - 2022",
-      description: "Relevant coursework in algorithms, data structures, and web development."
+      school: "Richfield Graduate Institute of Technology",
+      degree: "Bachelor of Science in Information Technology",
+      year: "2022 - 2024",
+      description: "Relevant coursework in algorithms, data structures, and software development."
     },
+    {
+      school: "Amazon web services (AWS)",
+      degree: "Amazon Academy Cloud Foundations",
+      year: "2024",
+      description: "Detailed overview of cloud concepts, AWS core services, security, architecture, pricing, and support."
+    }
     // Add more education items
   ];
 

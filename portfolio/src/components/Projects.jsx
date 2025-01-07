@@ -4,8 +4,8 @@ const Projects = () => {
   const projects = [
     {
       title: "E-Commerce Platform",
-      description: "A full-stack e-commerce solution with real-time inventory and payment processing",
-      technologies: ["React", "Node.js", "Stripe", "MongoDB"],
+      description: "a modern, responsive e-commerce platform built with React and Tailwind CSS,offering a seamless shopping experience for fashion and lifestyle products.",
+      technologies: ["React", "React router","React Context API", "TailwindCSS", "DummyJSON API","Vite.js","Axios for API calls"],
       image: "https://images.unsplash.com/photo-1661956602116-aa6865609028?ixlib=rb-4.0.3",
       link: "https://project1.com",
       github: "https://github.com/yourusername/project1"

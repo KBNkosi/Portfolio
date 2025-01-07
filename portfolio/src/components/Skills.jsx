@@ -9,15 +9,13 @@ const Skills = () => {
       { name: "Tailwind CSS", level: 85 },
     ],
     "Backend": [
-      { name: "Node.js", level: 80 },
       { name: "Python", level: 75 },
-      { name: "MongoDB", level: 70 },
+      { name: "PHP", level: 70 },
       { name: "SQL", level: 75 },
     ],
     "Tools": [
       { name: "Git", level: 85 },
-      { name: "Docker", level: 70 },
-      { name: "AWS", level: 65 },
+      { name: "Github", level: 70 },
       { name: "Figma", level: 75 },
     ]
   };

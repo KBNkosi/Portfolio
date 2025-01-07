@@ -32,7 +32,7 @@ const Navbar = () => {
             smooth={true}
             className="text-xl font-bold text-primary cursor-pointer"
           >
-            YourName
+            Kenny Nkosi
           </Link>
 
           {/* Desktop Navigation */}

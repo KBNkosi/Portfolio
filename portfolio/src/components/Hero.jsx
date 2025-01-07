@@ -30,9 +30,9 @@ const Hero = () => {
             transition={{ duration: 0.5 }}
             className="relative inline-block mb-6"
           >
-            <div className="w-32 h-32 rounded-full overflow-hidden mx-auto border-4 border-primary">
+            <div className="w-56 h-56 rounded-full overflow-hidden mx-auto border-4 border-primary">
               <img
-                src="https://via.placeholder.com/128"
+                src="https://via.placeholder.com/192"
                 alt="Profile"
                 className="w-full h-full object-cover"
                 onError={(e) => {
@@ -48,7 +48,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-4xl sm:text-5xl md:text-6xl font-bold text-secondary mb-6"
           >
-            Hi, I'm <span className="text-primary">Your Name</span>
+            Hi, I'm <span className="text-primary">Kenny Nkosi</span>
           </motion.h1>
 
           <motion.p
